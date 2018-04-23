@@ -1,0 +1,2 @@
+# Internship-Project
+I have experienced my internship in Halkbank IT which is one of the biggest bank company in Turkey . During my internship , they ask me to develop a system that record , monitor ,update and delete user requisitions.This system is going to run on web-based platform so I have to code it with c# &amp;amp; ASP.NET using Microsoft Visual Studio 2010 and Microsoft Access 2007 SQL Server.
